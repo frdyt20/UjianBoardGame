@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Board Game</string>
+    <string name="btn_up">Up Directional</string>
+    <string name="btn_left">Left Directional</string>
+    <string name="btn_right">Right Directional</string>
+</resources>
